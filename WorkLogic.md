@@ -1,0 +1,1 @@
+Terminal 2 (Mininet) is the physical network + traffic generator, Terminal 1 (Ryu) is the programmable brain controlling it, and pingall/iperf are how you generate and observe real traffic flowing through it — including loss, latency, and failure behavior, all visible directly in Terminal 2's output.
